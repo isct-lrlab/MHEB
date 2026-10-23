@@ -98,3 +98,14 @@ RELATIVE_CUTOFF_YEARS = range(-10, 1)
 ```
 
 which evaluates relative cutoff years `-10`, `-9`, ..., `-1`, and `0`.
+
+## Citation
+If you find this work useful, please cite:
+```bibtex
+@article{asai2026can,
+  title={Can LLMs Be Constrained to the Past? Improving Knowledge Cutoff through Recall-Based Prompting},
+  author={Asai, Michiro and Lin, Ailiang and Kishimoto, Yu and Obi, Takao and Kosugi, Satoshi and Funakoshi, Kotaro and Okumura, Manabu},
+  journal={arXiv preprint arXiv:2606.05804},
+  year={2026}
+}
+```
