@@ -102,10 +102,25 @@ which evaluates relative cutoff years `-10`, `-9`, ..., `-1`, and `0`.
 ## Citation
 If you find this work useful, please cite:
 ```bibtex
-@article{asai2026can,
-  title={Can LLMs Be Constrained to the Past? Improving Knowledge Cutoff through Recall-Based Prompting},
-  author={Asai, Michiro and Lin, Ailiang and Kishimoto, Yu and Obi, Takao and Kosugi, Satoshi and Funakoshi, Kotaro and Okumura, Manabu},
-  journal={arXiv preprint arXiv:2606.05804},
-  year={2026}
+@inproceedings{asai-etal-2026-llms,
+    title = "Can {LLM}s Be Constrained to the Past? Improving Knowledge Cutoff through Recall-Based Prompting",
+    author = "Asai, Michiro  and
+      Lin, Ailiang  and
+      Kishimoto, Yu  and
+      Obi, Takao  and
+      Kosugi, Satoshi  and
+      Funakoshi, Kotaro  and
+      Okumura, Manabu",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.emnlp-main.895/",
+    pages = "20622--20637"
 }
 ```
